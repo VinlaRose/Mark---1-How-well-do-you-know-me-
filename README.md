@@ -1,4 +1,4 @@
-# How well do you know mw
+# How well do you know me?
 It is a CLI quiz app for my friends and families to check how well do they know me
 
 This quiz is made using nodejs.
